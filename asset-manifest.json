@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ochi-Clone/static/css/main.84c1a5c7.css",
+    "main.js": "/Ochi-Clone/static/js/main.b18a22fe.js",
+    "static/js/453.09c7b11b.chunk.js": "/Ochi-Clone/static/js/453.09c7b11b.chunk.js",
+    "index.html": "/Ochi-Clone/index.html",
+    "main.84c1a5c7.css.map": "/Ochi-Clone/static/css/main.84c1a5c7.css.map",
+    "main.b18a22fe.js.map": "/Ochi-Clone/static/js/main.b18a22fe.js.map",
+    "453.09c7b11b.chunk.js.map": "/Ochi-Clone/static/js/453.09c7b11b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84c1a5c7.css",
+    "static/js/main.b18a22fe.js"
+  ]
+}
